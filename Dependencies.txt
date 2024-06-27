@@ -1,0 +1,23 @@
+OBJECT DETECTION
+
+
+Members:-
+
+	1. RITIK KUMAR MADHESHIYA 
+	2. DURGESH CHAURASIA 
+	3. SHAHADAT HUSAIN 
+	4. VIVEK PRAJAPATI 
+	5. NITIN KUMAR SRIVASTAVA
+
+
+
+Library Function:-
+
+		import cv2   #Version - 4.8.0
+
+
+Load Dataset:-
+
+		1. Dataset.pbtxt # dataset (no. of object’s img) 
+		2. frozen.pb # dataset (shape of img) 
+		3. labels.txt # object name can assign manually
